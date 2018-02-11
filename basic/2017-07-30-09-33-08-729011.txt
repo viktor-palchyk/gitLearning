@@ -1,0 +1,18 @@
+50.0
+-4.0
+212.0
+
+Line 1
+Line 2
+Line 3
+Line 4
+Line 5
+Line 6
+item 1
+item 2
+item 3
+To append to a file, you need to use the 'a' parameter while using 'open' method
+50.0
+-4.0
+212.0
+

@@ -1,0 +1,3 @@
+import folium
+m_ob = folium.Map(location=[38.58, -99], zoom_start = 6, tiles="Mapbox Bright")
+m_ob.save("Map2.html") 

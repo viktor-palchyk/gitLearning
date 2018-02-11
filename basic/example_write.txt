@@ -1,0 +1,4 @@
+item 1
+item 2
+item 3
+To append to a file, you need to use the 'a' parameter while using 'open' method
